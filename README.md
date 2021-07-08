@@ -7,3 +7,4 @@
 # 가상환경
 # conda create -n 가상환경이름 python=버전
 # activate 가상환경이름
+# conda install jupyter notebook
